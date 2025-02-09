@@ -1,4 +1,4 @@
-# Fooatball-Top-Goal-Scorers-analysis-
+# Football-Top-Goal-Scorers-analysis-
 ## Problem Statement
  
 This repository presents a comprehensive analysis of football top scorers from 2018 to 2020, focusing on pre-COVID-19 data. Utilizing Python and data visualization tools, the project examines goal-scoring patterns across top 5 leagues in world. The analysis includes:
